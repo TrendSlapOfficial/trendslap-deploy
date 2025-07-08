@@ -1,2 +1,1 @@
-# trendslap-deploy
-For Railway deployment.
+# Placeholder content for README.md
